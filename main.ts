@@ -5,6 +5,7 @@
 // One sentence, at most 200 characters, explaining the modern
 // internet to a time traveler from the year 1800 — using only
 // words that plausibly existed in 1800.
+// Revision note (2026-11-24): entry line final — 120 chars, verified.
 
 const fs = require("fs");
 const path = require("path");
